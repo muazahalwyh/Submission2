@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard ✨
+# Submission Machine Learning Pemula ✨
 
 ## Setup Environment - Anaconda
 ```
